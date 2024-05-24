@@ -1,0 +1,31 @@
+.card {
+    background-color: #1B263B;
+    color: #E0E1DD;
+    height: 100%;
+    padding: 10px;
+}
+
+.card>img {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 200px;
+    height: 150px;
+    object-fit: contain;
+}
+
+.card-button {
+    background-color: transparent;
+    border: none;
+    display: block;
+    margin: auto;
+}
+
+.card-button>a {
+    color: #778DA9;
+}
+
+.card-button>a:hover {
+    color: #415A77;
+}
+
