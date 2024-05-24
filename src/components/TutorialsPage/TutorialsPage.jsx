@@ -6,4 +6,4 @@ function TutorialsPage() {
         </>
     )
 }
-export default
+export default TutorialsPage
